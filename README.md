@@ -5,14 +5,14 @@
 #### - BigQuery, jupyter notebook
 #### - Python 3.6  
 
-1. model  
+##### 1. model  
 LSTM을 활용해 절도범죄 트렌드 예측 모델을 생성함
 
-2. Place
+##### 2. Place  
 장소와 범죄 분석
 
-3. Holiday
+##### 3. Holiday  
 공휴일과 범죄 분석
 
-4. Time
+##### 4. Time  
 시간과 범죄 분석
